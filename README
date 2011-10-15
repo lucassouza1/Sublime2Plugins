@@ -1,0 +1,6 @@
+Sublime Text 2 Plugins
+======================
+php_get_set.py
+==============
+
+php_get_set.py is a PHP plugin that takes selected class property as arguments and generates getters and setters.
